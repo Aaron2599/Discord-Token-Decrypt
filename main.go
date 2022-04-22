@@ -87,13 +87,14 @@ func main(){
 				token, _ := gcm_cipher.Open(nil, nonce, enc_token, nil)
 				
 				fmt.Println(string(token))
-
+				
 			}
 
 		}
 
 	}
 
+	fmt.Scanln()
 }
 
 
