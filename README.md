@@ -1,5 +1,5 @@
 # Discord-Token-Decrypt
-a discord token logger written in go that decrypts and logs tokens 
+A discord token logger written in Go
 
 # How To Use
 ```go
